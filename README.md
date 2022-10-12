@@ -1,6 +1,6 @@
 ### About Me
 
-<a>I'm a 15-year-old student in Turkey with a love to develop games, being mainly indie ones.</a>
+<a>I'm a 16-year-old student in Turkey with a love to develop games, being mainly indie ones.</a>
 <a>Game Maker Language is the most I know, with some others coming second.</a>
 <a>I mostly do Undertale fan games as a hobby of mine, but I plan to turn it all into a career in the future.</a>
 <a>Some of my examples of work include my take on Japaritale and possibly some original yet scrapped games.</a></a>
